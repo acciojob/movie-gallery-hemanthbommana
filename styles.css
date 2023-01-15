@@ -6,23 +6,6 @@ body{
 	justify-content:space-between;
 	
 }
-.row-3{
-  display:flex;
-	justify-content:space-between;
-	margin-top:5%;
-	
-}
-.row-4{
-	margin-top:5%;
-  display:flex;
-	justify-content:space-between;
-	
-}
-.row-2{
-	margin-top:5%;
-	
-	display:flex;
-}
 
 img{
 	width:100%;
